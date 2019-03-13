@@ -34,7 +34,7 @@ Create or update archetypes and set version to SNAPSHOT (ex: 1.0.0-SNAPSHOT)
 
 Deploy SNAPSHOT version to https://oss.sonatype.org/content/repositories/snapshots/
 
-`spring-boot-maven-archetypes> mvn clean deploy`
+`spring-boot-kotlin-basic-archetype> mvn clean deploy`
 
 Deploy release version to Maven Central
 
